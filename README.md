@@ -136,8 +136,8 @@ pi_2 = lambda s: {
     15: LEFT  # Terminal
 }[s]
 
-print("Name: mukesh r")
-print("Register Number: 212223240100")
+print("Name: APARNA.M")
+print("Register Number: 212223220008")
 print_policy(pi_2, P, action_symbols=('<', 'v', '>', '^'), n_cols=4)
 print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.format(
     probability_success(env, pi_2, goal_state=goal_state) * 100,
@@ -241,17 +241,50 @@ else:
 
 ## OUTPUT:
 
-# Policy 1:
-<img width="676" height="485" alt="image" src="https://github.com/user-attachments/assets/95197ebe-45eb-4034-8406-be9b82bf7f2d" />
 
-# Policy 2:
-<img width="834" height="196" alt="image" src="https://github.com/user-attachments/assets/a71de1ed-48b5-4b66-935c-5dcb5eb8f21b" />
+<img width="1740" height="659" alt="image" src="https://github.com/user-attachments/assets/c80754e6-cea3-4344-85a6-7e6003c781cb" />
 
-# Policy Evaluation of Policies
-<img width="502" height="426" alt="image" src="https://github.com/user-attachments/assets/45541127-d9ec-44f0-a934-99d250c38294" />
 
-# Comparing Policies:
-<img width="621" height="278" alt="image" src="https://github.com/user-attachments/assets/73135f1d-fb01-452e-ae5b-0e0d789cbfe0" />
+
+
+
+
+<img width="1866" height="738" alt="image" src="https://github.com/user-attachments/assets/71ca5a66-ae03-4648-9dcc-16d2bf044703" />
+
+
+
+
+
+
+<img width="1810" height="212" alt="image" src="https://github.com/user-attachments/assets/a3ede861-d790-44a0-b4f8-f73d6c3a2f36" />
+
+
+
+
+
+<img width="1272" height="255" alt="image" src="https://github.com/user-attachments/assets/422838a4-3883-4223-b883-6378fd7355ce" />
+
+
+
+
+
+<img width="1258" height="316" alt="image" src="https://github.com/user-attachments/assets/e2c6d032-985c-438a-9b0e-93bf241783a6" />
+
+
+
+
+
+
+<img width="1341" height="137" alt="image" src="https://github.com/user-attachments/assets/dee21929-f60a-4441-a698-bbe2dd900171" />
+
+
+
+
+
+
+<img width="1119" height="279" alt="image" src="https://github.com/user-attachments/assets/b36a27df-6898-4065-b0b6-65b4fc117252" />
+
+
 
 
 
